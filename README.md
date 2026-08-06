@@ -26,9 +26,7 @@ Voice AI Assistant is a Python application that records the user's voice, conver
 
 ### Project Result
 
-![Project_Result3](project_result3.png)
-
-
+![Project Result](project_result3.png)
 
 
 ## Project Structure
