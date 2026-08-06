@@ -2,8 +2,6 @@
 A Python voice assistant that converts speech to text, generates AI responses using Cohere, and converts the response back to speech.
 
 
-
-
 ## Overview
 Voice AI Assistant is a Python application that records the user's voice, converts it into text, generates an AI response using Cohere, and converts the response back into speech.
 
@@ -28,7 +26,7 @@ Voice AI Assistant is a Python application that records the user's voice, conver
 
 ### Project Result
 
-![Project Result]project_result3.png)
+![Project Result](project_result3.png)
 
 
 
