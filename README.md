@@ -43,16 +43,14 @@ Voice-AI-Assistant/
 
 ## Installation
 
-1. Clone the repository.
-git clone https://github.com/your-username/Voice-AI-Assistant.git
 
-2. Install the required libraries.
+1. Install the required libraries.
 pip install -r requirements.txt
 
-3. Create a .env file and add your Cohere API key.
+2. Create a .env file and add your Cohere API key.
 COHERE_API_KEY=your_api_key_here
 
-4. Run the project.
+3. Run the project.
 python main.py
 
 ## How It Works
