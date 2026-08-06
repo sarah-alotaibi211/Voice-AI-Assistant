@@ -1,0 +1,9 @@
+cohere
+python-dotenv
+SpeechRecognition
+openai-whisper
+gTTS
+playsound
+sounddevice
+soundfile
+numpy
